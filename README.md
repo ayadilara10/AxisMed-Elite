@@ -9,7 +9,7 @@
 
 Most introductory OOP projects choose a deliberately simple domain — a library, a to-do list, a school catalog — because the goal is to practice syntax, not to stress-test a design. I chose the opposite approach: a domain complicated enough that the OOP principles had to be load-bearing, not decorative.
 
-AxisMed Elite is a fictional clinic, invented entirely for this project — there is no real AxisMed. But the *constraints* it operates under are taken seriously: doctors split across distinct specialties, staff with different and non-overlapping permissions, patients who range from local chronic-condition cases to athletes flying in for a single pre-match clearance, and a privacy boundary where a team delegate can confirm an athlete is cleared to play without ever seeing why a teammate wasn't, last month.
+AxisMed Elite is a fictional clinic, invented entirely for this project. But the *constraints* it operates under are taken seriously: doctors split across distinct specialties, staff with different and non-overlapping permissions, patients who range from local chronic-condition cases to athletes flying in for a single pre-match clearance, and a privacy boundary where a team delegate can confirm an athlete is cleared to play without ever seeing why a teammate wasn't, last month.
 
 None of this is meant to be impressive on its own. It's meant to make the architecture necessary rather than arbitrary — an abstract `Staff` class, polymorphic permission checks, and a record that travels with the patient across six cities aren't requirements I imposed on a simple problem. They're the structure the problem itself demands once it gets complicated enough to be interesting.
 
