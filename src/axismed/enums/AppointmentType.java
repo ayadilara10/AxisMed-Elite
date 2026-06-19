@@ -1,0 +1,13 @@
+package axismed.enums;
+
+public enum AppointmentType {
+    INJURY_ASSESSMENT,
+    PERFORMANCE_OPTIMIZATION,
+    REHABILITATION,
+    FOLLOW_UP,
+    SCREENING,
+    FUNCTIONAL_TEST,
+    SPECIALIST_REFERRAL,
+    DOPING_SCREEN,
+    MEDICAL_CLEARANCE
+}

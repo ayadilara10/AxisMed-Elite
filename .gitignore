@@ -1,0 +1,9 @@
+out/
+*.class
+.idea/
+*.iml
+.vscode/
+.claude/
+CLAUDE.md
+claude.json
+.DS_Store

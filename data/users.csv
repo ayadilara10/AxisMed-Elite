@@ -1,0 +1,10 @@
+email,passwordHash,userRole,linkedId
+admin@axismed.com,admin123,ADMIN,STAFF001
+doctor@axismed.com,doctor123,DOCTOR,STAFF002
+patient@axismed.com,patient123,PATIENT,PAT001
+delegate@axismed.com,delegate123,TEAM_DELEGATE,DEL001
+carlos@team.com,1998-03-15,PATIENT,PAT-A3CF1DAE
+ana@test.com,1995-08-20,PATIENT,PAT-AA3DD4DD
+ion@axismed.com,ion,DOCTOR,STF-F742B6B1
+lucia@team.com,lucia123,PATIENT,PAT-5ED1838D
+bogdan@test.com,bogdan123,PATIENT,PAT-B17FF27A

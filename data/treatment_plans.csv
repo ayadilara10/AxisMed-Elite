@@ -1,0 +1,5 @@
+planId,patientId,staffId,diagnosisId,startDate,endDate,status,recommendations
+PLN002,PAT002,STAFF002,,2026-06-12,,ACTIVE,Gradual return to match play; monitor heart rate during training; hydration protocol
+PLN-F09D495E00D2,PAT001,STAFF002,,2026-06-12,,ACTIVE,"Rest, ice, compression, elevation, avoid weight bearing"
+PLN001,PAT001,STAFF004,DGN001,2026-06-11,2026-09-11,ACTIVE,Avoid high-impact activities; ice therapy 2x daily; low-resistance cycling
+PLN-636BB38EDB6B,1,STAFF002,,2026-06-12,,ACTIVE,-

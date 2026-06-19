@@ -1,0 +1,8 @@
+patientId,firstName,lastName,email,passwordHash,dob,gender,phone,nationality,patientType,membershipType,chronicConditions,sport,isActive
+PAT001,Marcus,Johnson,patient@axismed.com,patient123,1990-03-15,MALE,+447700900001,British,LOCAL,PREMIUM,Mild hypertension,FOOTBALL,true
+PAT-A3CF1DAE,Carlos,Mendez,carlos@team.com,1998-03-15,1998-03-15,MALE,+34600000001,Spanish,VISITING_TEAM,TEAM_CONTRACT,,FOOTBALL,true
+PAT002,Sofia,Rossi,sofia.rossi@email.com,sofia123,1995-07-22,FEMALE,+390200001234,Italian,VISITING_INDIVIDUAL,STANDARD,,TENNIS,true
+PAT-B17FF27A,Bogdan,Marin,bogdan@test.com,bogdan123,1990-11-15,MALE,+40700000003,Romanian,LOCAL,STANDARD,,RUNNING,true
+PAT-5ED1838D,Lucia,Ferrari,lucia@team.com,lucia123,2000-05-10,FEMALE,+39600000001,Italian,VISITING_TEAM,TEAM_CONTRACT,,TENNIS,true
+PAT-AA3DD4DD,Ana,Popescu,ana@test.com,1995-08-20,1995-08-20,FEMALE,+40700000002,Romanian,LOCAL,STANDARD,,RUNNING,true
+PAT003,Ahmed,Al-Rashid,ahmed.alrashid@email.com,ahmed123,1998-11-08,MALE,+97455510001,Qatari,VISITING_TEAM,TEAM_CONTRACT,,FOOTBALL,true

@@ -1,0 +1,8 @@
+recordId,patientId,createdDate,lastUpdatedBy,generalNotes
+REC-BC2E4AC6AAB1,PAT-AA3DD4DD,2026-06-12,Bucharest,
+REC-913C42D457E0,PAT-5ED1838D,2026-06-13,Visiting,
+REC-F179AFC6F393,PAT-B17FF27A,2026-06-13,Bucharest,
+REC001,PAT001,2026-01-10,Bucharest,Registered as local permanent patient at Bucharest HQ
+REC002,PAT002,2026-05-20,London,Visiting athlete attending London Open tennis tournament
+REC003,PAT003,2026-06-01,Doha,Team athlete registered for Qatar International Football Cup
+REC-C5F19E54A85E,PAT-A3CF1DAE,2026-06-12,Visiting,

@@ -1,0 +1,6 @@
+diagnosisId,patientId,doctorId,appointmentId,clinicCity,name,description,icdCode,date,isChronicRelated
+DGN001,PAT001,STAFF002,APT003,Bucharest,Medial Meniscus Tear,Partial tear of the medial meniscus in the right knee,M23.2,2026-06-10,false
+DGN002,PAT001,STAFF002,APT003,Bucharest,Mild Hypertension,Elevated blood pressure requiring monitoring during training,I10,2026-06-10,true
+DGN-9E1AE979C079,UNKNOWN,STAFF002,PAT001,Unknown,ACL Grade II Sprain,Partial tear of anterior cruciate ligament,S83.5,2026-06-12,false
+DGN-198AEE89E108,UNKNOWN,STAFF002,v,Unknown,-,-,-,2026-06-12,false
+DGN-D52D399C5B73,UNKNOWN,STAFF002,1,Unknown,meniscustear,-,,2026-06-12,false

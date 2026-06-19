@@ -1,0 +1,8 @@
+staffId,firstName,lastName,email,passwordHash,role,specialization,homeClinic,assignedClinics,licenseNumber,isActive
+STAFF002,Elena,Vasquez,doctor@axismed.com,doctor123,DOCTOR,SPORTS_MEDICINE,Bucharest,London;Dubai,LIC-2019-0042,true
+STAFF003,Marcus,Wei,marcus.wei@axismed.com,marcus123,DOCTOR,ORTHOPEDICS,London,,LIC-2017-0088,true
+STAFF001,James,Carter,admin@axismed.com,admin123,DOCTOR,GENERAL,Bucharest,,ADM-001,true
+STAFF006,Carlos,Rivera,carlos.rivera@axismed.com,carlos123,TRAINER,,Madrid,,,true
+STAFF004,Sophie,Laurent,sophie.laurent@axismed.com,sophie123,PHYSIOTHERAPIST,,Bucharest,,PHYS-2020-0015,true
+STAFF005,Kai,Tanaka,kai.tanaka@axismed.com,kai123,NUTRITIONIST,,Dubai,,,true
+STF-F742B6B1,Ion,Constantin,ion@axismed.com,ion,DOCTOR,ORTHOPEDICS,Bucharest,,RO-MED-2024-001,true
